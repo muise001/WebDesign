@@ -1,5 +1,5 @@
-<img src="img/.jpg" alt="">
-<a href="https://muise001.github.io/WebDesign/index.html">Linkje naar de site</a>
+<img src="https://github.com/muise001/WebDesign/blob/master/Schermafbeelding%202018-04-26%20om%2010.41.59.png" alt="Schermafbeelding van de hoofdpagina van de website">
+<a href="https://muise001.github.io/WebDesign/index.html">Klik hier om de site te bekijken</a>
 
 # Web Design
 
