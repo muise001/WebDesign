@@ -13,6 +13,24 @@ Ik heb een website gemaakt voor onze Minor. Hierop krijg je meer informatie over
   * **Een student die geinterreseerd is in de Minor Web Development** 
     * De student wilt graag meer informatie over de Minor en zien wat andere studenten gemaakt hebben om te kijken of hij aan het niveau kan voldoen.
     
+### Feedback van Marijn
+**Algemeen**
+ * gebruikt ook spatiebalk om te scrollen
+ * gebruikt vooral de trackpad. Houd van grote knoppen
+ * Marijn houdt niet van kleine knoppen
+ * wilt meteen feedback na input
+ * gebruikt tab eigenlijk alleen bij invoervelden
+
+**Over Mij**
+ * slideshow is een goed idee :)
+ * beetje kermisachtig, wel cool 
+ * hamburger menu is verschrikkelijk
+ * kleuren zijn leuk
+ * focus is cool
+ * responsive tot 13-inch
+ * rooster klopt niet
+ * Rooster standaard width per vakje
+    
 ## Accessibility
 Om de website zo toegankelijk mogelijk te maken voor Marijn heb ik een aantal specificaties toegevoegd.
   * Grote knoppen
@@ -24,6 +42,10 @@ Om de website zo toegankelijk mogelijk te maken voor Marijn heb ik een aantal sp
   * Sluit hamburgermenu
      * Stel Marijn bekijkt de website op z'n tablet met een toetsenbord. Hij tabt naar het hamburgermenu en opent die. Dan ziet hij vier opties. Met de laatste hiervan kan hij het menu weer sluiten. Dit is handig, zodat hij niet terug hoeft te tabben. 
   * Tabben binnen het rooster
-     * Op de rooster-pagina kan je alle vakken bekijken. Helaas is het rooster vrij lang, dus valt hij buiten de pagina. Normaal zou je zijwaards kunnen scrollen. Voor Marijn is dit echter lastig om te doen. Om deze reden heb ik alle vakken en projecten binnen het rooster in een `<a>` gezet met een link naar het vak waarop hij gefocust is. hierdoor kan hij ook naar het einde van het rooster tabben.
+     * Op de rooster-pagina kan je alle vakken bekijken. Helaas is het rooster vrij lang, dus valt hij buiten de pagina. Normaal zou je zijwaards kunnen scrollen. Voor Marijn is dit echter lastig om te doen. Om deze reden heb ik alle vakken en projecten binnen het rooster in een `<a>` gezet met een link naar het vak waarop hij gefocust is. hierdoor kan hij ook naar het einde van het rooster tabben.     
           
+          
+## Content inventarisatie 
+
+<img src="https://github.com/muise001/WebDesign/blob/master/contentinventarisatie.jpg" alt="content inventarisatie">
      
