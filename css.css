@@ -208,6 +208,7 @@ footer h2{
 .pageHeaderFixed{
   position: fixed;
   width: 100%;
+  padding: 0;
 }
 
 .pageHeader h1{
@@ -504,10 +505,17 @@ table a:focus{
 .tg .tg-c3ow{border-color:#ffcc03;text-align:center;vertical-align:top}
 .tg .tg-7btt{font-weight:bold;border-color:#ffcc03;text-align:center;vertical-align:top}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+td{width: 4em;}
 
 @media (min-width: 800px) {
   .mainHeader{
     padding: 8em 3em;
+  }
+  label{
+    opacity: 0;
+  }
+  input{
+    display: none;
   }
   .pageHeader{
     padding: 0 8em;
@@ -563,6 +571,10 @@ table a:focus{
     width: calc(100% - 20rem);
     padding: 2em 10rem;
     justify-content: center;
+  }
+  .pageHeaderFixed{
+    position: fixed;
+    width: calc(100%  - 16em);
   }
   section .uphigh{
     margin: 9.5em 0 0 0;
