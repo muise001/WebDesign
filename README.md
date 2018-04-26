@@ -7,12 +7,16 @@ Bij deze opdracht voor het vak "Web design", was het de bedoeling om een website
 
 Ik heb een website gemaakt voor onze Minor. Hierop krijg je meer informatie over de minor in het algemeen, specifieke informatie over de vakken en projecten en kan je het rooster bekijken.
 
+### User Stories
+ 1. Mensen die geen muis hebben of kunnen gebruiken, moeten alsnog alle functionaliteit van de website kunnen gebruiken
+ 2. Studenten van de HvA die geïnteresseerd zijn in de Minor, moeten specifieke informatie krijgen over de vakken
+
 ## De Personen
   * **Marijn**
     * Marijn is spastisch geboren. Hierdoor is het moeilijk voor hem om met zijn muis het web te verkennen.
   * **Een student die geinterreseerd is in de Minor Web Development** 
     * De student wilt graag meer informatie over de Minor en zien wat andere studenten gemaakt hebben om te kijken of hij aan het niveau kan voldoen.
-    
+   
 ### Feedback van Marijn
 **Algemeen**
  * gebruikt ook spatiebalk om te scrollen
