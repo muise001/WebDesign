@@ -25,5 +25,5 @@ Om de website zo toegankelijk mogelijk te maken voor Marijn heb ik een aantal sp
      * Stel Marijn bekijkt de website op z'n tablet met een toetsenbord. Hij tabt naar het hamburgermenu en opent die. Dan ziet hij vier opties. Met de laatste hiervan kan hij het menu weer sluiten. Dit is handig, zodat hij niet terug hoeft te tabben. 
   * Tabben binnen het rooster
      * Op de rooster-pagina kan je alle vakken bekijken. Helaas is het rooster vrij lang, dus valt hij buiten de pagina. Normaal zou je zijwaards kunnen scrollen. Voor Marijn is dit echter lastig om te doen. Om deze reden heb ik alle vakken en projecten binnen het rooster in een `<a>` gezet met een link naar het vak waarop hij gefocust is. hierdoor kan hij ook naar het einde van het rooster tabben.
-     
+          
      
